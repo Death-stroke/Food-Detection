@@ -1,4 +1,4 @@
-# Food-Detection
+# Food-Detection-Case-Study
 To perform this study of food detection, the UECFOOD100 dataset was used, which contained images of japanese foods. The dataset also came with the bounding box information and the category information of the food. Due to memory constraints only a subset of images (nearly 1200) were considered. Since I did not have any GPUs at my disposal, all the models were trained using Google Colab. Each code used is a jupyter notebook with explanation for each cell.
 
  1.  0_food_detect_data   -   code to extract images and bounding box information
